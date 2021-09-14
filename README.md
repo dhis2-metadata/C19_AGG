@@ -1,1 +1,1 @@
-# COVID19_AGG - Sureillance
+# COVID19 - Aggregate Sureillance Metadata Package
