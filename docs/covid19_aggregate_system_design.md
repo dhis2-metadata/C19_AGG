@@ -1,12 +1,12 @@
 # COVID-19 Surveillance - Aggregate System Design Guide { #covid19-aggregate-design }
 
-Last updated 12/10/2020
+Last updated 11/24/2021
 
 Package Version 2.0
 
-DHIS2 Version compatibility 2.30 - 2.34
+DHIS2 Version compatibility 2.30 - 2.36
 
-Demo: [https://covid.dhis2.org/](https://covid.dhis2.org/demo)
+Demo: [https://demos.dhis2.org/covid-19/](https://demos.dhis2.org/covid-19/)
 
 ## Purpose
 
@@ -48,7 +48,7 @@ The dataset captures a minimum number of data points that meet the current WHO w
 
 | **Name** | **Periodicity** | **Purpose** |
 | --- | --- | --- |
-| COVID-19 Surveillance Report | Weekly| Reporting of key COVID-19 surveillance data including cases, tests and deaths. |
+| Aggregate Weekly Surveillance | Weekly| Reporting of key COVID-19 surveillance data including cases, tests and deaths. |
 
 It is recommended that the weekly dataset is assigned to Organisation Units at the lowest level of the health system feasible for reporting data, such as health facilities.
 
