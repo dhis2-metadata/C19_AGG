@@ -1,11 +1,5 @@
 # COVID-19 Surveillance - Aggregate System Design Guide { #covid19-aggregate-design }
 
-Last updated 11/24/2021
-
-Package Version 2.0
-
-DHIS2 Version compatibility 2.30 - 2.36
-
 Demo: [https://demos.dhis2.org/covid-19/](https://demos.dhis2.org/covid-19/)
 
 ## Purpose
