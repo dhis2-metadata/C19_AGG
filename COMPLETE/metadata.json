@@ -2270,94 +2270,14 @@
                     "value": "Стандарт"
                 },
                 {
-                    "locale": "es_US",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
                     "locale": "ar_EG",
                     "property": "NAME",
                     "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "SHORT_NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "id",
-                    "property": "SHORT_NAME",
-                    "value": "Putus berobat/default"
                 },
                 {
                     "locale": "cs",
                     "property": "NAME",
                     "value": "výchozí"
-                },
-                {
-                    "locale": "nb",
-                    "property": "SHORT_NAME",
-                    "value": "standard"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "es",
-                    "property": "NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_SD",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "ar",
-                    "property": "NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "uz",
-                    "property": "SHORT_NAME",
-                    "value": "Стандарт"
-                },
-                {
-                    "locale": "ar",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "ar_IQ",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "fr",
-                    "property": "NAME",
-                    "value": "défaut"
-                },
-                {
-                    "locale": "es",
-                    "property": "SHORT_NAME",
-                    "value": "default"
-                },
-                {
-                    "locale": "ar_EG",
-                    "property": "SHORT_NAME",
-                    "value": "الافتراضي"
-                },
-                {
-                    "locale": "pt_BR",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
                 },
                 {
                     "locale": "ru",
@@ -2370,9 +2290,29 @@
                     "value": "Padrao"
                 },
                 {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الافتراضي"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "default"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Padrão"
+                },
+                {
                     "locale": "uz_UZ",
                     "property": "NAME",
                     "value": "standart"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الافتراضي"
                 },
                 {
                     "locale": "id",
@@ -2385,24 +2325,9 @@
                     "value": "default"
                 },
                 {
-                    "locale": "uz_UZ",
-                    "property": "SHORT_NAME",
-                    "value": "standart"
-                },
-                {
-                    "locale": "pt",
-                    "property": "SHORT_NAME",
-                    "value": "Padrão"
-                },
-                {
-                    "locale": "cs",
-                    "property": "SHORT_NAME",
-                    "value": "výchozí"
-                },
-                {
-                    "locale": "ru",
-                    "property": "SHORT_NAME",
-                    "value": "по умолчанию"
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "défaut"
                 },
                 {
                     "locale": "nb",
@@ -6767,6 +6692,46 @@
                 },
                 {
                     "dataElement": {
+                        "id": "sWCFbUawFDa"
+                    },
+                    "dataSet": {
+                        "id": "uKtOZwDnIpM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "cW0odY9vhrd"
+                    },
+                    "dataSet": {
+                        "id": "uKtOZwDnIpM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "E1pXvzyZzKB"
+                    },
+                    "dataSet": {
+                        "id": "uKtOZwDnIpM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "bmbNyNoJcXP"
+                    },
+                    "dataSet": {
+                        "id": "uKtOZwDnIpM"
+                    }
+                },
+                {
+                    "dataElement": {
+                        "id": "pZtyMNtYPLM"
+                    },
+                    "dataSet": {
+                        "id": "uKtOZwDnIpM"
+                    }
+                },
+                {
+                    "dataElement": {
                         "id": "N59eghaBpM7"
                     },
                     "dataSet": {
@@ -6783,39 +6748,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "sWCFbUawFDa"
-                    },
-                    "dataSet": {
-                        "id": "uKtOZwDnIpM"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "E1pXvzyZzKB"
-                    },
-                    "dataSet": {
-                        "id": "uKtOZwDnIpM"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "pZtyMNtYPLM"
-                    },
-                    "dataSet": {
-                        "id": "uKtOZwDnIpM"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "cW0odY9vhrd"
-                    },
-                    "dataSet": {
-                        "id": "uKtOZwDnIpM"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "rBw83gVQLHK"
+                        "id": "SU1j9CmCuW9"
                     },
                     "dataSet": {
                         "id": "uKtOZwDnIpM"
@@ -6831,15 +6764,7 @@
                 },
                 {
                     "dataElement": {
-                        "id": "SU1j9CmCuW9"
-                    },
-                    "dataSet": {
-                        "id": "uKtOZwDnIpM"
-                    }
-                },
-                {
-                    "dataElement": {
-                        "id": "bmbNyNoJcXP"
+                        "id": "rBw83gVQLHK"
                     },
                     "dataSet": {
                         "id": "uKtOZwDnIpM"
@@ -6885,7 +6810,7 @@
             "timelyDays": 15,
             "translations": [],
             "validCompleteOnly": false,
-            "version": 27
+            "version": 34
         }
     ],
     "documents": [],
@@ -7903,20 +7828,156 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "e458507",
-        "DHIS2Version": "2.36.10",
+        "DHIS2Build": "11b58fe",
+        "DHIS2Version": "2.36.11.1",
         "code": "C19_AGG",
         "description": "COVID-19 Surveillance (aggregate)",
-        "lastUpdated": "20220527T110003",
+        "lastUpdated": "20220610T095556",
         "locale": "en",
-        "name": "C19_AGG_AGG_DHIS2.36.10-en",
+        "name": "C19_AGG_AGG_DHIS2.36.11.1-en",
         "type": "AGG",
         "version": ""
     },
     "predictorGroups": [],
     "predictors": [],
     "reports": [],
-    "sections": [],
+    "sections": [
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "SU1j9CmCuW9"
+                },
+                {
+                    "id": "DI9JgEJ3t8v"
+                }
+            ],
+            "dataSet": {
+                "id": "uKtOZwDnIpM"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "DFZ530AsisR",
+            "indicators": [],
+            "name": "Health worker infection and death",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "fJ7Qi1zcdAR"
+                },
+                {
+                    "id": "cW0odY9vhrd"
+                }
+            ],
+            "dataSet": {
+                "id": "uKtOZwDnIpM"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "LsTxlZ01Cxn",
+            "indicators": [],
+            "name": "Hospitalisation and discharges",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 4,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "bmbNyNoJcXP"
+                },
+                {
+                    "id": "VnkErE22ELJ"
+                }
+            ],
+            "dataSet": {
+                "id": "uKtOZwDnIpM"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "i9rpQqB3Hfh",
+            "indicators": [],
+            "name": "New confirmed and probable cases",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 1,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "N59eghaBpM7"
+                },
+                {
+                    "id": "rBw83gVQLHK"
+                }
+            ],
+            "dataSet": {
+                "id": "uKtOZwDnIpM"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "WpkRkdnPvjU",
+            "indicators": [],
+            "name": "New probable and confirmed deaths",
+            "showColumnTotals": false,
+            "showRowTotals": true,
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "E1pXvzyZzKB"
+                },
+                {
+                    "id": "pZtyMNtYPLM"
+                }
+            ],
+            "dataSet": {
+                "id": "uKtOZwDnIpM"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "r6tjZBmD6UQ",
+            "indicators": [],
+            "name": "Tests conducted",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 5,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "dataElements": [
+                {
+                    "id": "sWCFbUawFDa"
+                }
+            ],
+            "dataSet": {
+                "id": "uKtOZwDnIpM"
+            },
+            "disableDataElementAutoGroup": false,
+            "greyedFields": [],
+            "id": "GTFXasEGT2O",
+            "indicators": [],
+            "name": "Transmission classification",
+            "showColumnTotals": false,
+            "showRowTotals": false,
+            "sortOrder": 6,
+            "translations": []
+        }
+    ],
     "sqlViews": [],
     "userGroups": [
         {
@@ -7972,10 +8033,10 @@
         {
             "attributeValues": [],
             "dataViewOrganisationUnits": [],
-            "firstName": "Admin",
+            "firstName": "package",
             "id": "vUeLeQMSwhN",
             "organisationUnits": [],
-            "surname": "WHO",
+            "surname": "admin",
             "teiSearchOrganisationUnits": [],
             "userCredentials": {
                 "attributeValues": [],
@@ -7989,7 +8050,7 @@
                 "id": "MMRO6oP1HQg",
                 "invitation": false,
                 "lastLogin": "2020-04-23T09:17:46.912",
-                "name": "Admin WHO",
+                "name": "package admin",
                 "passwordLastUpdated": "2019-10-16T12:06:30.668",
                 "selfRegistered": false,
                 "sharing": {
@@ -8009,7 +8070,7 @@
                         "id": "yrB6vc5Ip3r"
                     }
                 ],
-                "username": "who"
+                "username": "package_admin"
             }
         }
     ],
