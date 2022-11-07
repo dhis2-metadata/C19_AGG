@@ -2349,6 +2349,15 @@
             "id": "UGXgY58CxjG",
             "indicators": [
                 {
+                    "id": "LeNVLm6SL1x"
+                },
+                {
+                    "id": "VJHMO9gHkV5"
+                },
+                {
+                    "id": "TmKNBHtBx6D"
+                },
+                {
                     "id": "ZTklbd8JtLn"
                 },
                 {
@@ -2364,34 +2373,13 @@
                     "id": "yzyWxXoSCny"
                 },
                 {
+                    "id": "YPPj66WcS0z"
+                },
+                {
                     "id": "jgyO0rV708H"
                 },
                 {
                     "id": "K2JqazsxhvP"
-                },
-                {
-                    "id": "ZJ8cABVoDvi"
-                },
-                {
-                    "id": "pxqFjCNLkzD"
-                },
-                {
-                    "id": "DnleIypnqxJ"
-                },
-                {
-                    "id": "x6IelBioEX1"
-                },
-                {
-                    "id": "LeNVLm6SL1x"
-                },
-                {
-                    "id": "VJHMO9gHkV5"
-                },
-                {
-                    "id": "TmKNBHtBx6D"
-                },
-                {
-                    "id": "YPPj66WcS0z"
                 },
                 {
                     "id": "C6A59SObXV6"
@@ -2400,10 +2388,22 @@
                     "id": "W2cTLk9FSxP"
                 },
                 {
+                    "id": "ZJ8cABVoDvi"
+                },
+                {
+                    "id": "pxqFjCNLkzD"
+                },
+                {
                     "id": "cJZS7kSFFGl"
                 },
                 {
                     "id": "hCjH3etkLNP"
+                },
+                {
+                    "id": "DnleIypnqxJ"
+                },
+                {
+                    "id": "x6IelBioEX1"
                 }
             ],
             "name": "COVID19",
@@ -3728,8 +3728,8 @@
         "DHIS2Build": "b6d3754",
         "DHIS2Version": "2.36.12",
         "code": "C19_AGG",
-        "description": "COVID-19 Surveillance (dashboard)",
-        "lastUpdated": "20221028T141622",
+        "description": "COVID-19 Aggregate Surveillance",
+        "lastUpdated": "20221107T135311",
         "locale": "en",
         "name": "C19_AGG_DSH_DHIS2.36.12-en",
         "type": "DSH",
