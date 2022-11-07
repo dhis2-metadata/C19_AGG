@@ -1,4 +1,4 @@
-# Aggregate Package Installation Guide { #covid19-aggregate-installation }
+# Aggregate Package Installation Guide { #c19-agg-installation }
 
 ## Overview
 

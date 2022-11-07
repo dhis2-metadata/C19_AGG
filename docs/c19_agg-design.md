@@ -1,4 +1,4 @@
-# COVID-19 Surveillance - Aggregate System Design Guide { #covid19-aggregate-design }
+# COVID-19 Surveillance - Aggregate System Design Guide { #c19-agg-design }
 
 Demo: [https://demos.dhis2.org/covid-19/](https://demos.dhis2.org/covid-19/)
 
