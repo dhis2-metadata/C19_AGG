@@ -14,4 +14,4 @@
 
 ## Metadata Reference
 
-[Version 2.0.0](https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.36/C19_AGG_2.0.0_DHIS2.36.zip)
+[Version 2.0.0](https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.38/C19_AGG_COMPLETE_2.0.0_DHIS2.38.xlsx)
