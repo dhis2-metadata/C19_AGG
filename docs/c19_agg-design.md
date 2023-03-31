@@ -1,7 +1,5 @@
 # COVID-19 Surveillance - Aggregate System Design Guide { #c19-agg-design }
 
-Demo: [https://demos.dhis2.org/covid-19/](https://demos.dhis2.org/covid-19/)
-
 ## Purpose
 
 The COVID-19 Surveillance Aggregate System Design document provides an overview of the design principles and guidance used to develop the digital data package for aggregate COVID-19 surveillance. This document is intended for use by DHIS2 implementers at country and regional level to be able to support implementation and localisation of the package. The COVID-19 metadata package can be adapted to local needs and national guidelines. In particular, local work flows and national guidelines should be considered in the localization and adoption of the programs included in this package.
